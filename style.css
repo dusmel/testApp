@@ -1,0 +1,80 @@
+body{
+  background-color: rgb(240, 240, 240);
+  color: rgb(20, 20, 20);
+  font-family: Helvetica;
+  margin: 0;
+
+}
+
+
+h1{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 50px;
+  color: #F96900;
+
+}
+
+h2{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+}
+
+a{
+  text-decoration: none;
+  color: blue;
+  font-family: 'Open Sans', sans-serif;
+
+}
+
+a:hover{
+  text-decoration: none;
+  color: #95E06C;
+}
+
+#banner{
+  background-image: url("images/banner-bg.jpg");
+  background-size: cover;
+  height: 700px;
+  padding: 200px 0;
+  text-align: center;
+}
+
+#banner p {
+  color: white;
+}
+
+#banner a {
+  font-size: 18px;
+  padding: 5px 6px;
+  border-radius: 3px;
+  margin: 20px;
+  background-color: #053C5E;
+  color: rgb(235, 235, 235);
+}
+
+#banner a:hover {
+  background-color: #1F7A8C;
+}
+
+.card {
+  padding: 20px 0;
+  text-align: center;
+}
+
+.card h2 {
+  margin-top: 0;
+}
+.footer {
+  background: black;
+  color: rgb(240, 240, 240);
+  padding: 60px 10px;
+}
+
+.footer a {
+  color: grey;
+  font-size: 20px;
+}
+
+.footer a:hover {
+  color: white;
+}
