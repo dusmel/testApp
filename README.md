@@ -1,2 +1,2 @@
-#READ ME
+#README
 this an app for testing
